@@ -13,7 +13,9 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
-    <string name="login">LOGIN</string>
-    <string name="task_manager_app">TASK MANAGER APP</string>
     <string name="logo">logo</string>
+    <string name="emailName">email</string>
+    <string name="PasswordName">password</string>
+    <string name="logo">logo</string>
+    <string name="loginName">login</string>
 </resources>
